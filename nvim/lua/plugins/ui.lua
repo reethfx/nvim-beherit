@@ -58,7 +58,7 @@ return {
         lualine_a = {
           {
             "mode",
-            icon = "󱗞",
+            icon = "𒉭",
           },
         },
       },
@@ -120,7 +120,7 @@ return {
         gitsigns = true,
         tmux = true,
         kitty = { enabled = false, font = "+2" },
-        twilight = { enabled = true },
+        oxocarbon = { enabled = true },
       },
     },
     keys = { { "<leader>z", "<cmd>ZenMode<cr>", desc = "Zen Mode" } },

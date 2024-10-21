@@ -1,11 +1,11 @@
 return {
   {
-    "catppuccin/nvim",
-    name = "catppuccin",
+    "oxocarbon/nvim",
+    name = "oxocarbon",
     lazy = false,
     opts = {
       transparent_background = true,
-      flavour = "mocha",
+      -- flavour = "mocha",
     },
     integrations = {
       cmp = true,
